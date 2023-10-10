@@ -25,7 +25,7 @@ export function HomePage() {
 
 
     <h1 className="text-6xl  font-bold italic sofia-font leading-snug">Hi, I am <span className="text-6xl  font-bold italic sofia-font leading-snug text-pink-600">Sudharshini</span></h1>
-    <p className="text-xl text-black mb-8 text-justify font-semibold italic sofia-font mb:text-justify">Computer Science and Engineering Student at Francis Xavier Engineering College, Tirunelveli</p>
+    <p className="text-xl text-black mb-8 text-justify font-semibold italic sofia-font mb:text-center">Computer Science and Engineering Student at Francis Xavier Engineering College, Tirunelveli</p>
     <p className="text-2xl  text-black italic sofia-font  md:text-center md:text-3xl md:mx-10 sm:mx-2 ml-2 text-center ">
     I'm a third-year engineering student with a passion for creating user-friendly web interfaces. I specialize in HTML, CSS, Bootstrap, React, and have experience with Tailwind CSS. I'm committed to continuous learning and staying current with industry trends.
     </p>
