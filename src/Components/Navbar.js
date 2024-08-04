@@ -77,7 +77,7 @@ export default function Navbar({ fixed }) {
             className="px-3 py-2 flex items-center text-s uppercase font-bold italic sofia-font leading-snug text-black hover:opacity-75"
             onClick={() => scrollToSection("Certifications")}
           >
-            <span className="ml-2">Certifications</span>
+            <span className="ml-2">Projects</span>
           </button>
         </li>
         <li className="nav-item">
